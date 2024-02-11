@@ -7,3 +7,6 @@ This tool serves the purpose of circumventing restrictions imposed by systems th
 ```bash
 BruteForcer.py -u VALID_USERNAME -p VALID_PASSWORD -U USERFILE -P PASSFILE
 ```
+## BurpSuite Exercie to test
+
+https://portswigger.net/web-security/authentication/password-based/lab-broken-bruteforce-protection-ip-block
